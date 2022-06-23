@@ -1,6 +1,8 @@
-👋 ola meu nome é @wollancerobertolindao
-👍meu contato é [email](wollance.mendes@escola.pr.gov.br)
-👀 estou mais enteressado em ser medico
+-👋 ola meu nome é @wollancerobertolindao
+
+-👍meu contato é [email](wollance.mendes@escola.pr.gov.br)
+-👀 estou mais enteressado em ser medico
+
 - 🌱 estou aprendendo a programar a linguagem do javascript e scrath
 
 
